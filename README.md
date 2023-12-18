@@ -1,2 +1,2 @@
-# simple-html-css-website
+# wearfree
 A clothing brands home page
